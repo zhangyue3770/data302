@@ -38,7 +38,7 @@ def list():
     results = db.engine.execute(text(q), key=key).fetchall()
     print("#" * 80)
     for result in results:
-        print("http://data.qiime.org/{} => {}".format(*result))
+        print("https://data.qiime2.org/{} => {}".format(*result))
 
 
 if __name__ == '__main__':
