@@ -7,44 +7,45 @@
 # ----------------------------------------------------------------------------
 
 import os
-from app import create_app, db
+import sys
+from urllib.parse import urlparse
+
 from flask_script import Manager
+
+from urls import MAP
+from app import create_app
 
 
 app = create_app(os.getenv('FLASK_CONFIG') or 'default')
 manager = Manager(app)
 
 
-@manager.command
-def initdb():
-    from sqlalchemy.sql import text
-    cmd = """\
-          CREATE EXTENSION hstore;
-          CREATE TABLE urls ( id SERIAL, mapping HSTORE );
-          INSERT INTO urls (mapping) VALUES ('');
-          """
-    db.engine.execute(text(cmd))
+def _template(k, v):
+    return "{} =>\n  {}".format(k, v)
 
 
-@manager.command
-def key(key, value=None):
-    from sqlalchemy.sql import text
-    if value is None:
-        q = "UPDATE urls SET mapping = delete(mapping, :key);"
-    else:
-        q = "UPDATE urls SET mapping = mapping || :key"
-        key = '"%s"=>"%s"' % (key, value)
-    db.engine.execute(text(q), key=key)
+def _validate_url(url):
+    # This is far from perfect, but should work fine for reasonable URLs
+    parsed = urlparse(url)
+    return bool(parsed.scheme or parsed.netloc)
 
 
 @manager.command
 def list():
-    from sqlalchemy.sql import text
-    q = "SELECT (EACH(mapping)).* FROM urls;"
-    results = db.engine.execute(text(q), key=key).fetchall()
-    print("#" * 80)
-    for result in results:
-        print("https://data.qiime2.org/{} => {}".format(*result))
+    for key, val in MAP.items():
+        print(_template(key, val))
+
+
+@manager.command
+def validate():
+    errors = []
+    for key, val in MAP.items():
+        f_key = 'https://data.qiime2.org/%s' % key
+        if not _validate_url(f_key) or not _validate_url(val):
+            errors.append(_template(key, val))
+
+    if errors:
+        sys.exit('\n'.join(errors))
 
 
 if __name__ == '__main__':
