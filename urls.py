@@ -11,6 +11,10 @@
 
 MAP = {
     # DISTRO
+    'distro/core/qiime2-2017.2-conda-osx-64.txt':
+        'https://dl.dropboxusercontent.com/u/2868868/data/qiime2/distro/core/qiime2-2017.2-conda-osx-64.txt',
+    'distro/core/qiime2-2017.2-conda-linux-64.txt':
+        'https://dl.dropboxusercontent.com/u/2868868/data/qiime2/distro/core/qiime2-2017.2-conda-linux-64.txt',
     'distro/core/qiime206.zip':
         'https://s3-us-west-2.amazonaws.com/9400115901699159151932/qiime206-1484941248.zip',
 
