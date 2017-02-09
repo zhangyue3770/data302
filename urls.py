@@ -14,8 +14,8 @@ MAP = {
     'distro/core/2.0.6':
         'https://s3-us-west-2.amazonaws.com/9400115901699159151932/qiime206-1484941248.zip',
 
-    # 'distro/core/2017.2':
-    #     '',
+    'distro/core/2017.2':
+        'https://dl.dropboxusercontent.com/u/2868868/data/qiime2/distro/core/qiime20172-1486602522.zip',
 
     'distro/core/qiime2-2017.2-conda-osx-64.txt':
         'https://dl.dropboxusercontent.com/u/2868868/data/qiime2/distro/core/qiime2-2017.2-conda-osx-64.txt',
