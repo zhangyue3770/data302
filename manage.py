@@ -9,8 +9,10 @@
 import os
 import sys
 from urllib.parse import urlparse
+from pathlib import Path
 
 from flask_script import Manager
+import requests
 
 from urls import MAP
 from app import create_app
@@ -46,6 +48,26 @@ def validate():
 
     if errors:
         sys.exit('\n'.join(errors))
+
+
+@manager.command
+def clone_remote_files(path):
+    root = Path(path)
+    for key, url in MAP.items():
+        base = Path(key)
+        p = root / base
+        if str(base.parents[1]) == 'distro':
+            p.parent.mkdir(parents=True, exist_ok=True)
+            continue
+        p.parent.mkdir(parents=True, exist_ok=True)
+        if p.name in ('sample_metadata', 'sample_metadata.tsv'):
+            continue
+        print("Fetching %s" % p)
+        r = requests.get(url, stream=True)
+        with p.open('wb') as f:
+            for stream_chunk in r.iter_content(chunk_size=1024):
+                if stream_chunk:
+                    f.write(stream_chunk)
 
 
 if __name__ == '__main__':
