@@ -174,4 +174,12 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/1WwCnhP7VbiVXY5-XHLoYAT-wAU68ItEF117TYJeQCrg/export?gid=0&format=tsv',
     '2017.2/tutorials/moving-pictures/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1WwCnhP7VbiVXY5-XHLoYAT-wAU68ItEF117TYJeQCrg/edit?usp=sharing',
+
+    # 2017.3
+    '2017.3/tutorials/importing/sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/sequences.fna',
+    '2017.3/tutorials/importing/aligned-sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/aligned-sequences.fna',
+    '2017.3/tutorials/importing/unrooted-tree.tre':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/unrooted-tree.tre',
 }
