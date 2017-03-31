@@ -182,4 +182,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/aligned-sequences.fna',
     '2017.3/tutorials/importing/unrooted-tree.tre':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/unrooted-tree.tre',
+    '2017.3/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
+    '2017.3/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz',
 }
