@@ -176,12 +176,24 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/1WwCnhP7VbiVXY5-XHLoYAT-wAU68ItEF117TYJeQCrg/edit?usp=sharing',
 
     # 2017.3
+    '2017.3/tutorials/importing/pe-64-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/pe-64-manifest',
+    '2017.3/tutorials/importing/pe-64.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/pe-64.zip',
+    '2017.3/tutorials/importing/se-33-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/se-33-manifest',
+    '2017.3/tutorials/importing/se-33.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/se-33.zip',
     '2017.3/tutorials/importing/sequences.fna':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/sequences.fna',
     '2017.3/tutorials/importing/aligned-sequences.fna':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/aligned-sequences.fna',
     '2017.3/tutorials/importing/unrooted-tree.tre':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/importing/unrooted-tree.tre',
+    '2017.3/tutorials/exporting/feature-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/exporting/feature-table.qza',
+    '2017.3/tutorials/exporting/unrooted-tree.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/exporting/unrooted-tree.qza',
     '2017.3/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.3/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.3/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
