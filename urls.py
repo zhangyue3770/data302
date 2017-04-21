@@ -26,7 +26,17 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime2-2017.2-conda-osx-64.txt',
     'distro/core/qiime2-2017.2-conda-linux-64.txt':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime2-2017.2-conda-linux-64.txt',
-
+    
+    # 2017.4 DISTRO
+    'distro/core/qiime2-2017.4-conda-osx-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.4/release/qiime2-2017.4-conda-osx-64.txt',
+    'distro/core/qiime2-2017.4-conda-linux-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.4/release/qiime2-2017.4-conda-linux-64.txt',
+    'distro/core/2017.4':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20174-1492814818.zip',
+    'distro/core/qiime20174-1492814818.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20174-1492814818.zip',
+    
     # 2.0.5
     '2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza',
