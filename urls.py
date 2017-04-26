@@ -255,15 +255,15 @@ MAP = {
     '2017.4/tutorials/training-feature-classifiers/rep-seqs.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.4/tutorials/training-feature-classifiers/rep-seqs.qza',
     '2017.4/tutorials/atacama-soils/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/13RvLGJ2co3QScBVK7F6_7wJAgoFTGJzUHyuMFTYERe0/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1pDrxXdv87ln9WldEIBCG93eSXf3gfxNXlkeLodBlnOI/export?gid=0&format=tsv',
     '2017.4/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/13RvLGJ2co3QScBVK7F6_7wJAgoFTGJzUHyuMFTYERe0/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1pDrxXdv87ln9WldEIBCG93eSXf3gfxNXlkeLodBlnOI/edit?usp=sharing',
     '2017.4/tutorials/fmt/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1Z2Egv1j6MrZntlOJsRfpspHEWFbHCDZxrWpKV5Fh8gU/export?gid=0&format=tsv',
     '2017.4/tutorials/fmt/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1Z2Egv1j6MrZntlOJsRfpspHEWFbHCDZxrWpKV5Fh8gU/edit?usp=sharing',
     '2017.4/tutorials/moving-pictures/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/13_w7PPn5w7ZMp2688MCehlq3xQBa1k0K6DeRqlgLzyE/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1kyK1g5e2KM7akG3Nc2XshkdGSlpBWOVGHmLorNthzfY/export?gid=0&format=tsv',
     '2017.4/tutorials/moving-pictures/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/13_w7PPn5w7ZMp2688MCehlq3xQBa1k0K6DeRqlgLzyE/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1kyK1g5e2KM7akG3Nc2XshkdGSlpBWOVGHmLorNthzfY/edit?usp=sharing',
 }
