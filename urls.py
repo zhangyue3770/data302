@@ -10,6 +10,10 @@
 
 MAP = {
     # DISTRO
+    'distro/core/aws-amis.txt':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/aws-amis.txt',
+    'distro/core/virtualbox-images.txt':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/virtualbox-images.txt',
     'distro/core/2.0.6':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime206-1484941248.zip',
     'distro/core/qiime206.zip':  # LEGACY, we can probably delete this
@@ -26,7 +30,7 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime2-2017.2-conda-osx-64.txt',
     'distro/core/qiime2-2017.2-conda-linux-64.txt':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime2-2017.2-conda-linux-64.txt',
-    
+
     # 2017.4 DISTRO
     'distro/core/qiime2-2017.4-conda-osx-64.txt':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.4/release/qiime2-2017.4-conda-osx-64.txt',
@@ -36,7 +40,18 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20174-1492814818.zip',
     'distro/core/qiime20174-1492814818.zip':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20174-1492814818.zip',
-    
+
+    # 2017.5 DISTRO
+    'distro/core/qiime2-2017.5-conda-osx-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.5/release/qiime2-2017.5-conda-osx-64.txt',
+    'distro/core/qiime2-2017.5-conda-linux-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.5/release/qiime2-2017.5-conda-linux-64.txt',
+    ### TODO: Update these URLs
+    # 'distro/core/2017.5':
+    #     'https://google.com',
+    # 'distro/core/qiime20175-BUILDID.zip':
+    #     'https://google.com/',
+
     # 2.0.5
     '2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza',
@@ -266,4 +281,86 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/1kyK1g5e2KM7akG3Nc2XshkdGSlpBWOVGHmLorNthzfY/export?gid=0&format=tsv',
     '2017.4/tutorials/moving-pictures/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1kyK1g5e2KM7akG3Nc2XshkdGSlpBWOVGHmLorNthzfY/edit?usp=sharing',
+
+    # 2017.5
+    '2017.5/common/gg-13-8-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/common/gg-13-8-99-515-806-nb-classifier.qza',
+    '2017.5/common/gg-13-8-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/common/gg-13-8-99-nb-classifier.qza',
+    '2017.5/common/silva-119-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/common/silva-119-99-515-806-nb-classifier.qza',
+    '2017.5/common/silva-119-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/common/silva-119-99-nb-classifier.qza',
+    '2017.5/tutorials/atacama-soils/10p/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/10p/barcodes.fastq.gz',
+    '2017.5/tutorials/atacama-soils/10p/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/10p/forward.fastq.gz',
+    '2017.5/tutorials/atacama-soils/10p/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/10p/reverse.fastq.gz',
+    '2017.5/tutorials/atacama-soils/1p/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/1p/barcodes.fastq.gz',
+    '2017.5/tutorials/atacama-soils/1p/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/1p/forward.fastq.gz',
+    '2017.5/tutorials/atacama-soils/1p/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/atacama-soils/1p/reverse.fastq.gz',
+    '2017.5/tutorials/exporting/feature-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/exporting/feature-table.qza',
+    '2017.5/tutorials/exporting/unrooted-tree.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/exporting/unrooted-tree.qza',
+    '2017.5/tutorials/filtering/distance-matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/filtering/distance-matrix.qza',
+    '2017.5/tutorials/filtering/table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/filtering/table.qza',
+    '2017.5/tutorials/fmt/fmt-tutorial-demux-1-10p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/fmt/fmt-tutorial-demux-1-10p.qza',
+    '2017.5/tutorials/fmt/fmt-tutorial-demux-1-1p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/fmt/fmt-tutorial-demux-1-1p.qza',
+    '2017.5/tutorials/fmt/fmt-tutorial-demux-2-10p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
+    '2017.5/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
+    '2017.5/tutorials/importing/aligned-sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/aligned-sequences.fna',
+    '2017.5/tutorials/importing/casava-18-paired-end-demultiplexed.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/casava-18-paired-end-demultiplexed.zip',
+    '2017.5/tutorials/importing/casava-18-single-end-demultiplexed.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/casava-18-single-end-demultiplexed.zip',
+    '2017.5/tutorials/importing/feature-table-v100.biom':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/feature-table-v100.biom',
+    '2017.5/tutorials/importing/feature-table-v210.biom':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/feature-table-v210.biom',
+    '2017.5/tutorials/importing/pe-64-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/pe-64-manifest',
+    '2017.5/tutorials/importing/pe-64.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/pe-64.zip',
+    '2017.5/tutorials/importing/se-33-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/se-33-manifest',
+    '2017.5/tutorials/importing/se-33.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/se-33.zip',
+    '2017.5/tutorials/importing/sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/sequences.fna',
+    '2017.5/tutorials/importing/unrooted-tree.tre':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/importing/unrooted-tree.tre',
+    '2017.5/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
+    '2017.5/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz',
+    '2017.5/tutorials/training-feature-classifiers/85_otu_taxonomy.txt':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/training-feature-classifiers/85_otu_taxonomy.txt',
+    '2017.5/tutorials/training-feature-classifiers/85_otus.fasta':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/training-feature-classifiers/85_otus.fasta',
+    '2017.5/tutorials/training-feature-classifiers/rep-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.5/tutorials/training-feature-classifiers/rep-seqs.qza',
+    '2017.5/tutorials/atacama-soils/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1GRaNc-Ik7_4K45EQjCjrML7dadxoz6l-w8CF4I4T7Ug/export?gid=0&format=tsv',
+    '2017.5/tutorials/atacama-soils/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1GRaNc-Ik7_4K45EQjCjrML7dadxoz6l-w8CF4I4T7Ug/edit?usp=sharing',
+    '2017.5/tutorials/fmt/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1kv1pomvbr3WQiEUA8P2N6zyVHkue4XXRI_U_3UmJVvw/export?gid=0&format=tsv',
+    '2017.5/tutorials/fmt/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1kv1pomvbr3WQiEUA8P2N6zyVHkue4XXRI_U_3UmJVvw/edit?usp=sharing',
+    '2017.5/tutorials/moving-pictures/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1_cDVn4B1wjzxdirkSxoEvOEmWPGn0XyCqbQGpeyg4Uc/export?gid=0&format=tsv',
+    '2017.5/tutorials/moving-pictures/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1_cDVn4B1wjzxdirkSxoEvOEmWPGn0XyCqbQGpeyg4Uc/edit?usp=sharing',
 }
