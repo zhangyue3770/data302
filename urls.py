@@ -46,11 +46,10 @@ MAP = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.5/release/qiime2-2017.5-conda-osx-64.txt',
     'distro/core/qiime2-2017.5-conda-linux-64.txt':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.5/release/qiime2-2017.5-conda-linux-64.txt',
-    ### TODO: Update these URLs
-    # 'distro/core/2017.5':
-    #     'https://google.com',
-    # 'distro/core/qiime20175-BUILDID.zip':
-    #     'https://google.com/',
+    'distro/core/2017.5':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20175-1495755264.zip',
+    'distro/core/qiime20175-1495755264.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20175-1495755264.zip',
 
     # 2.0.5
     '2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza':
