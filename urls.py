@@ -67,9 +67,9 @@ MAP = {
     'distro/core/qiime2-2017.7-conda-linux-64.txt':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.7/release/qiime2-2017.7-conda-linux-64.txt',
     'distro/core/2017.7':
-        'http://google.com',
-    'distro/core/qiime20177-BUILD.zip':
-        'http://google.com',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20177-1501699215.zip',
+    'distro/core/qiime20177-1501699215.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20177-1501699215.zip',
 
     # 2.0.5
     '2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza':
