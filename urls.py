@@ -638,6 +638,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/importing/sequences.fna',
     '2017.8/tutorials/importing/unrooted-tree.tre':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/importing/unrooted-tree.tre',
+    '2017.8/tutorials/longitudinal/atacama-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/atacama-table.qza',
+    '2017.8/tutorials/longitudinal/moving-pictures-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/moving-pictures-table.qza',
     '2017.8/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.8/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
@@ -650,6 +654,12 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/metadata/taxonomy.qza',
     '2017.8/tutorials/metadata/unweighted_unifrac_pcoa_results.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
+    '2017.8/tutorials/sample-classifier/table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/sample-classifier/table.qza',
+    '2017.8/tutorials/sample-classifier/observed_otus_vector.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/sample-classifier/observed_otus_vector.qza',
+    '2017.8/tutorials/sample-classifier/unweighted_unifrac_pcoa_results.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/sample-classifier/unweighted_unifrac_pcoa_results.qza',
     '2017.8/tutorials/training-feature-classifiers/85_otu_taxonomy.txt':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/training-feature-classifiers/85_otu_taxonomy.txt',
     '2017.8/tutorials/training-feature-classifiers/85_otus.fasta':
