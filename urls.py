@@ -642,8 +642,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/table.qza',
     '2017.8/tutorials/longitudinal/observed_otus_vector.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/observed_otus_vector.qza',
-    '2017.8/tutorials/longitudinal/unweighted_unifrac_pcoa_results.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/unweighted_unifrac_pcoa_results.qza',
+    '2017.8/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza',
     '2017.8/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.8/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.8/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
