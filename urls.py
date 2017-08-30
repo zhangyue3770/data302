@@ -81,6 +81,14 @@ MAP = {
     'distro/core/qiime20178-BUILD.zip':
         'http://google.com',
 
+    # Gallery
+    'gallery/taxa-bar-plots.qzv':
+        'https://docs.qiime2.org/2017.8/data/tutorials/moving-pictures/taxa-bar-plots.qzv',
+    'gallery/table.qzv':
+        'https://docs.qiime2.org/2017.8/data/tutorials/moving-pictures/table.qzv',
+    'gallery/unweighted-unifrac-emperor.qzv':
+        'https://docs.qiime2.org/2017.8/data/tutorials/moving-pictures/core-metrics-results/unweighted-unifrac-emperor.qzv',
+
     # 2.0.5
     '2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2.0.5/common/gg-13-8-99-515-806-nb-classifier.qza',
