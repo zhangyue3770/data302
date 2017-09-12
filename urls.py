@@ -762,12 +762,22 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/importing/sequences.fna',
     '2017.9/tutorials/importing/unrooted-tree.tre':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/importing/unrooted-tree.tre',
+    '2017.9/tutorials/longitudinal/ecam_table_maturity.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_table_maturity.qza',
+    '2017.9/tutorials/longitudinal/ecam_table_taxa.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_table_taxa.qza',
+    '2017.9/tutorials/longitudinal/ecam_unweighted_distance_matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_unweighted_distance_matrix.qza',
+    '2017.9/tutorials/longitudinal/ecam_shannon.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_shannon.qza',
+    # TODO: begin delete
     '2017.9/tutorials/longitudinal/table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/table.qza',
     '2017.9/tutorials/longitudinal/observed_otus_vector.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/observed_otus_vector.qza',
     '2017.9/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza',
+    # TODO: end delete
     '2017.9/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.9/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
@@ -798,6 +808,10 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/11XaCo3lraIz7VYw24iAyPbuZXMuITGM7nsY_-10IByo/export?gid=0&format=tsv',
     '2017.9/tutorials/fmt/sample_metadata':
         'https://docs.google.com/spreadsheets/d/11XaCo3lraIz7VYw24iAyPbuZXMuITGM7nsY_-10IByo/edit?usp=sharing',
+    '2017.9/tutorials/longitudinal/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1lWwMbbfKlYm5aUFjZHWXwiWvuAhdEK8bVp2kk7DlMNo/export?gid=0&format=tsv',
+    '2017.9/tutorials/longitudinal/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1lWwMbbfKlYm5aUFjZHWXwiWvuAhdEK8bVp2kk7DlMNo/edit?usp=sharing',
     '2017.9/tutorials/moving-pictures/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1eJ4VouEoCZFySm-REvJaNlH6RwuzjrZ9A10v9GI73QQ/export?gid=0&format=tsv',
     '2017.9/tutorials/moving-pictures/sample_metadata':
