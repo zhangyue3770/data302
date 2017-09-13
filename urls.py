@@ -809,7 +809,7 @@ MAP = {
     '2017.9/tutorials/fmt/sample_metadata':
         'https://docs.google.com/spreadsheets/d/11XaCo3lraIz7VYw24iAyPbuZXMuITGM7nsY_-10IByo/edit?usp=sharing',
     '2017.9/tutorials/longitudinal/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1lWwMbbfKlYm5aUFjZHWXwiWvuAhdEK8bVp2kk7DlMNo/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vRD2JQoOT8NsG3f0NqhEWe-54Lx8fkeTd09r6utj22RFe2EUA2eLptGPeUHqx3lrghhOLKVSMhx_bX0/pub?gid=1303657428&single=true&output=tsv',
     '2017.9/tutorials/longitudinal/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1lWwMbbfKlYm5aUFjZHWXwiWvuAhdEK8bVp2kk7DlMNo/edit?usp=sharing',
     '2017.9/tutorials/moving-pictures/sample_metadata.tsv':
