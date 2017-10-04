@@ -778,6 +778,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_shannon.qza',
     '2017.9/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza',
+    '2017.9/tutorials/longitudinal/ecam_table_maturity.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/longitudinal/ecam_table_maturity.qza',
     '2017.9/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.9/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.9/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
@@ -888,6 +890,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/longitudinal/ecam_shannon.qza',
     '2017.10/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza',
+    '2017.10/tutorials/longitudinal/ecam_table_maturity.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/longitudinal/ecam_table_maturity.qza',
     '2017.10/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
     '2017.10/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
