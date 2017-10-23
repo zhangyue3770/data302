@@ -904,6 +904,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/metadata/taxonomy.qza',
     '2017.10/tutorials/metadata/unweighted_unifrac_pcoa_results.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
+    '2017.10/tutorials/quality-control/query-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/quality-control/query-seqs.qza',
+    '2017.10/tutorials/quality-control/reference-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/quality-control/reference-seqs.qza',
     '2017.10/tutorials/sample-classifier/atacama-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/sample-classifier/atacama-table.qza',
     '2017.10/tutorials/sample-classifier/moving-pictures-table.qza':
