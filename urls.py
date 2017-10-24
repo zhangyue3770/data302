@@ -848,6 +848,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/filtering/distance-matrix.qza',
     '2017.10/tutorials/filtering/table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/filtering/table.qza',
+    '2017.10/tutorials/filtering/taxonomy.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/filtering/taxonomy.qza',
     '2017.10/tutorials/fmt/fmt-tutorial-demux-1-10p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.10/tutorials/fmt/fmt-tutorial-demux-1-10p.qza',
     '2017.10/tutorials/fmt/fmt-tutorial-demux-1-1p.qza':
