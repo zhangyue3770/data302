@@ -97,9 +97,9 @@ MAP = {
     'distro/core/qiime2-2017.10-conda-linux-64.txt':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.10/release/qiime2-2017.10-conda-linux-64.txt',
     'distro/core/2017.10':
-        'https://google.com/placeholder',
-    'distro/core/qiime201710-BUILDID.zip':
-        'https://google.com/placeholder',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201710-1509129582.zip',
+    'distro/core/qiime201710-1509129582.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201710-1509129582.zip',
 
     # Gallery
     'gallery/taxa-bar-plots.qzv':
