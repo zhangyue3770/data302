@@ -1040,6 +1040,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.11/tutorials/metadata/taxonomy.qza',
     '2017.11/tutorials/metadata/unweighted_unifrac_pcoa_results.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.11/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
+    '2017.11/tutorials/quality-control/qc-mock-3-expected.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.11/tutorials/quality-control/qc-mock-3-expected.qza',
+    '2017.11/tutorials/quality-control/qc-mock-3-observed.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.11/tutorials/quality-control/qc-mock-3-observed.qza',
     '2017.11/tutorials/quality-control/query-seqs.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.11/tutorials/quality-control/query-seqs.qza',
     '2017.11/tutorials/quality-control/reference-seqs.qza':
