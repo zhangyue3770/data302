@@ -111,6 +111,16 @@ MAP = {
     'distro/core/qiime201711-1512067591.zip':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201711-1512067591.zip',
 
+    # 2017.12 DISTRO
+    'distro/core/qiime2-2017.12-conda-osx-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-conda-osx-64.txt',
+    'distro/core/qiime2-2017.12-conda-linux-64.txt':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-conda-linux-64.txt',
+    'distro/core/2017.12':
+        'https://google.com',
+    'distro/core/qiime201712-BUILD.zip':
+        'https://google.com',
+
     # Gallery
     'gallery/taxa-bar-plots.qzv':
         'https://docs.qiime2.org/2017.8/data/tutorials/moving-pictures/taxa-bar-plots.qzv',
@@ -1076,4 +1086,130 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/10EPtdAZBZFmPZz-89LDKf9VnOje1T1MxGQDYDzOQh1M/export?gid=0&format=tsv',
     '2017.11/tutorials/fmt/sample_metadata':
         'https://docs.google.com/spreadsheets/d/10EPtdAZBZFmPZz-89LDKf9VnOje1T1MxGQDYDzOQh1M/edit?usp=sharing',
+
+    # 2017.12
+    '2017.12/common/gg-13-8-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/common/gg-13-8-99-515-806-nb-classifier.qza',
+    '2017.12/common/gg-13-8-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/common/gg-13-8-99-nb-classifier.qza',
+    '2017.12/common/silva-119-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/common/silva-119-99-515-806-nb-classifier.qza',
+    '2017.12/common/silva-119-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/common/silva-119-99-nb-classifier.qza',
+    '2017.12/tutorials/atacama-soils/10p/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/10p/barcodes.fastq.gz',
+    '2017.12/tutorials/atacama-soils/10p/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/10p/forward.fastq.gz',
+    '2017.12/tutorials/atacama-soils/10p/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/10p/reverse.fastq.gz',
+    '2017.12/tutorials/atacama-soils/1p/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/1p/barcodes.fastq.gz',
+    '2017.12/tutorials/atacama-soils/1p/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/1p/forward.fastq.gz',
+    '2017.12/tutorials/atacama-soils/1p/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/atacama-soils/1p/reverse.fastq.gz',
+    '2017.12/tutorials/exporting/feature-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/exporting/feature-table.qza',
+    '2017.12/tutorials/exporting/unrooted-tree.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/exporting/unrooted-tree.qza',
+    '2017.12/tutorials/filtering/distance-matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/filtering/distance-matrix.qza',
+    '2017.12/tutorials/filtering/table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/filtering/table.qza',
+    '2017.12/tutorials/filtering/taxonomy.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/filtering/taxonomy.qza',
+    '2017.12/tutorials/filtering/sequences.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/filtering/sequences.qza',
+    '2017.12/tutorials/fmt/fmt-tutorial-demux-1-10p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/fmt/fmt-tutorial-demux-1-10p.qza',
+    '2017.12/tutorials/fmt/fmt-tutorial-demux-1-1p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/fmt/fmt-tutorial-demux-1-1p.qza',
+    '2017.12/tutorials/fmt/fmt-tutorial-demux-2-10p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
+    '2017.12/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
+    '2017.12/tutorials/gneiss/sample-metadata.tsv':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/gneiss/sample-metadata.tsv',
+    '2017.12/tutorials/gneiss/table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/gneiss/table.qza',
+    '2017.12/tutorials/gneiss/taxa.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/gneiss/taxa.qza',
+    '2017.12/tutorials/importing/aligned-sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/aligned-sequences.fna',
+    '2017.12/tutorials/importing/casava-18-paired-end-demultiplexed.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/casava-18-paired-end-demultiplexed.zip',
+    '2017.12/tutorials/importing/casava-18-single-end-demultiplexed.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/casava-18-single-end-demultiplexed.zip',
+    '2017.12/tutorials/importing/feature-table-v100.biom':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/feature-table-v100.biom',
+    '2017.12/tutorials/importing/feature-table-v210.biom':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/feature-table-v210.biom',
+    '2017.12/tutorials/importing/pe-64-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/pe-64-manifest',
+    '2017.12/tutorials/importing/pe-64.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/pe-64.zip',
+    '2017.12/tutorials/importing/se-33-manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/se-33-manifest',
+    '2017.12/tutorials/importing/se-33.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/se-33.zip',
+    '2017.12/tutorials/importing/sequences.fna':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/sequences.fna',
+    '2017.12/tutorials/importing/unrooted-tree.tre':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/importing/unrooted-tree.tre',
+    '2017.12/tutorials/longitudinal/ecam_table_taxa.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/longitudinal/ecam_table_taxa.qza',
+    '2017.12/tutorials/longitudinal/ecam_shannon.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/longitudinal/ecam_shannon.qza',
+    '2017.12/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/longitudinal/unweighted_unifrac_distance_matrix.qza',
+    '2017.12/tutorials/longitudinal/ecam_table_maturity.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/longitudinal/ecam_table_maturity.qza',
+    '2017.12/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/moving-pictures/emp-single-end-sequences/barcodes.fastq.gz',
+    '2017.12/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/moving-pictures/emp-single-end-sequences/sequences.fastq.gz',
+    '2017.12/tutorials/metadata/faith_pd_vector.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/metadata/faith_pd_vector.qza',
+    '2017.12/tutorials/metadata/rep-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/metadata/rep-seqs.qza',
+    '2017.12/tutorials/metadata/taxonomy.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/metadata/taxonomy.qza',
+    '2017.12/tutorials/metadata/unweighted_unifrac_pcoa_results.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
+    '2017.12/tutorials/quality-control/qc-mock-3-expected.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/quality-control/qc-mock-3-expected.qza',
+    '2017.12/tutorials/quality-control/qc-mock-3-observed.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/quality-control/qc-mock-3-observed.qza',
+    '2017.12/tutorials/quality-control/query-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/quality-control/query-seqs.qza',
+    '2017.12/tutorials/quality-control/reference-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/quality-control/reference-seqs.qza',
+    '2017.12/tutorials/quality-control/query-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/quality-control/query-table.qza',
+    '2017.12/tutorials/sample-classifier/atacama-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/sample-classifier/atacama-table.qza',
+    '2017.12/tutorials/sample-classifier/moving-pictures-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/sample-classifier/moving-pictures-table.qza',
+    '2017.12/tutorials/training-feature-classifiers/85_otu_taxonomy.txt':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/training-feature-classifiers/85_otu_taxonomy.txt',
+    '2017.12/tutorials/training-feature-classifiers/85_otus.fasta':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/training-feature-classifiers/85_otus.fasta',
+    '2017.12/tutorials/training-feature-classifiers/rep-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2017.12/tutorials/training-feature-classifiers/rep-seqs.qza',
+    '2017.12/tutorials/longitudinal/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQX0izYlpMpVVCssgNsrvMsz---Hz2NmEvF3YrL8jz9FCKDVGlRMNoM4HWnzfd3MmjPzn2h6HfS4g-N/pub?gid=1303657428&single=true&output=tsv',
+    '2017.12/tutorials/longitudinal/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1nCmJGhrrzT58w2vVdUK8KFYEFTQqZjenYRdRYJny83s/edit?usp=sharing',
+    '2017.12/tutorials/atacama-soils/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1_fvnITwKxuKoT5oqHzFWWFhNMXYg94CKeKNCq30ryeM/export?gid=0&format=tsv',
+    '2017.12/tutorials/atacama-soils/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1_fvnITwKxuKoT5oqHzFWWFhNMXYg94CKeKNCq30ryeM/edit?usp=sharing',
+    '2017.12/tutorials/moving-pictures/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/149386JULm1MlQWf_E1ONSRiTHuDDb65ISp6UQwCzIzM/export?gid=0&format=tsv',
+    '2017.12/tutorials/moving-pictures/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/149386JULm1MlQWf_E1ONSRiTHuDDb65ISp6UQwCzIzM/edit?usp=sharing',
+    '2017.12/tutorials/fmt/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/1_aXfLx5zJhkNxvqJnG39WFwlKj5xWTVHe8eq7h1KFTA/export?gid=0&format=tsv',
+    '2017.12/tutorials/fmt/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1_aXfLx5zJhkNxvqJnG39WFwlKj5xWTVHe8eq7h1KFTA/edit?usp=sharing',
 }
