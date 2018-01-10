@@ -116,6 +116,10 @@ MAP = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-conda-osx-64.txt',
     'distro/core/qiime2-2017.12-conda-linux-64.txt':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-conda-linux-64.txt',
+    'distro/core/qiime2-2017.12-py35-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-py35-osx-conda.yml',
+    'distro/core/qiime2-2017.12-py35-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.12/release/qiime2-2017.12-py35-linux-conda.yml',
     'distro/core/2017.12':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201712-1513890060.zip',
     'distro/core/qiime201712-1513890060.zip':
