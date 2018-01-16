@@ -1343,9 +1343,9 @@ MAP = {
     '2018.2/tutorials/longitudinal/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1b7Y_3Pp7Sx4x_cqLiqOD46J7xc8dBt4SY1DCxTf5GYU/edit?usp=sharing',
     '2018.2/tutorials/atacama-soils/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1_fvnITwKxuKoT5oqHzFWWFhNMXYg94CKeKNCq30ryeM/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1mJcglEsQfVX2FNom_amXHNMxuvRkw0pdBzDzA7ceucY/export?gid=0&format=tsv',
     '2018.2/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1_fvnITwKxuKoT5oqHzFWWFhNMXYg94CKeKNCq30ryeM/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1mJcglEsQfVX2FNom_amXHNMxuvRkw0pdBzDzA7ceucY/edit?usp=sharing',
     '2018.2/tutorials/moving-pictures/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1LpGUOdXwCs6m4xR9DoB8yOl_22v1hczjZHyA41DhDXg/export?gid=0&format=tsv',
     '2018.2/tutorials/moving-pictures/sample_metadata':
