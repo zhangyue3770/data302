@@ -1250,6 +1250,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/atacama-soils/1p/forward.fastq.gz',
     '2018.2/tutorials/atacama-soils/1p/reverse.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/atacama-soils/1p/reverse.fastq.gz',
+    '2018.2/tutorials/chimera/atacama-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/chimera/atacama-table.qza',
+    '2018.2/tutorials/chimera/atacama-rep-seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/chimera/atacama-rep-seqs.qza',
     '2018.2/tutorials/exporting/feature-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/exporting/feature-table.qza',
     '2018.2/tutorials/exporting/unrooted-tree.qza':
