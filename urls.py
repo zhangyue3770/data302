@@ -1332,6 +1332,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/quality-control/reference-seqs.qza',
     '2018.2/tutorials/quality-control/query-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/quality-control/query-table.qza',
+    '2018.2/tutorials/read-joining/atacama-table.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/read-joining/atacama-table.qza',
+    '2018.2/tutorials/read-joining/fj-joined.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/read-joining/fj-joined.zip',
     '2018.2/tutorials/sample-classifier/atacama-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.2/tutorials/sample-classifier/atacama-table.qza',
     '2018.2/tutorials/sample-classifier/moving-pictures-table.qza':
