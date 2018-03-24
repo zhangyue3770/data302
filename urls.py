@@ -1466,7 +1466,7 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/metadata/taxonomy.qza',
     '2018.4/tutorials/metadata/unweighted_unifrac_pcoa_results.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
-    '2018.4/tutorials/otu-clustering/seqs.fns':
+    '2018.4/tutorials/otu-clustering/seqs.fna':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/otu-clustering/seqs.fna',
     '2018.4/tutorials/quality-control/qc-mock-3-expected.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/quality-control/qc-mock-3-expected.qza',
