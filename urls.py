@@ -1468,6 +1468,8 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/metadata/unweighted_unifrac_pcoa_results.qza',
     '2018.4/tutorials/otu-clustering/seqs.fna':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/otu-clustering/seqs.fna',
+    '2018.4/tutorials/otu-clustering/85_otus.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/otu-clustering/85_otus.qza',
     '2018.4/tutorials/quality-control/qc-mock-3-expected.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.4/tutorials/quality-control/qc-mock-3-expected.qza',
     '2018.4/tutorials/quality-control/qc-mock-3-observed.qza':
