@@ -153,9 +153,9 @@ MAP = {
     'distro/core/qiime2-2018.6-py35-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2018.6/release/qiime2-2018.6-py35-linux-conda.yml',
     'distro/core/2018.6':
-        'https://google.com',
-    'distro/core/qiime20186-BUILDID.zip':
-        'https://google.com',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20186-1529697023.zip',
+    'distro/core/qiime20186-1529697023.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime20186-1529697023.zip',
 
     # Gallery
     'gallery/taxa-bar-plots.qzv':
@@ -1526,10 +1526,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/gg-13-8-99-515-806-nb-classifier.qza',
     '2018.6/common/gg-13-8-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/gg-13-8-99-nb-classifier.qza',
-    '2018.6/common/silva-119-99-515-806-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/silva-119-99-515-806-nb-classifier.qza',
-    '2018.6/common/silva-119-99-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/silva-119-99-nb-classifier.qza',
+    '2018.6/common/silva-132-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/silva-132-99-515-806-nb-classifier.qza',
+    '2018.6/common/silva-132-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/common/silva-132-99-nb-classifier.qza',
     '2018.6/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.6/tutorials/atacama-soils/10p/barcodes.fastq.gz',
     '2018.6/tutorials/atacama-soils/10p/forward.fastq.gz':
