@@ -1843,12 +1843,6 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/atacama-soils/1p/forward.fastq.gz',
     '2018.11/tutorials/atacama-soils/1p/reverse.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/atacama-soils/1p/reverse.fastq.gz',
-    '2018.11/tutorials/cdiff-fmt/barcodes.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/barcodes.fastq.gz',
-    '2018.11/tutorials/cdiff-fmt/forward.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/forward.fastq.gz',
-    '2018.11/tutorials/cdiff-fmt/reverse.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/reverse.fastq.gz',
     '2018.11/tutorials/chimera/atacama-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/chimera/atacama-table.qza',
     '2018.11/tutorials/chimera/atacama-rep-seqs.qza':
@@ -1873,6 +1867,12 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
     '2018.11/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
+    '2018.11/tutorials/fmt-cdiff/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/barcodes.fastq.gz',
+    '2018.11/tutorials/fmt-cdiff/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/forward.fastq.gz',
+    '2018.11/tutorials/fmt-cdiff/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/reverse.fastq.gz',
     '2018.11/tutorials/gneiss/sample-metadata.tsv':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/gneiss/sample-metadata.tsv',
     '2018.11/tutorials/gneiss/table.qza':
@@ -1966,8 +1966,8 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/1tqVdNpz0ga8qXOfUSBdAxdhYLoN3JdrdlSB3PLPQyeo/edit?usp=sharing',
     '2018.11/tutorials/longitudinal/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vQFT3me-h8efuyGnOwCDQqFICOf8Iv167y_lseVXXSks_91r5fe6l9YTl7XAhTZke7UzVaoEhpFhyI2/pub?gid=1303657428&single=true&output=tsv',
-    '2018.11/tutorials/cdiff-fmt/sample_metadata':
+    '2018.11/tutorials/fmt-cdiff/sample_metadata':
         'https://docs.google.com/spreadsheets/d/15ePvSpdfvzoFz5o9sfbqIfMx9AG4G4hdhu9D_Adb1vQ/edit?usp=sharing',
-    '2018.11/tutorials/cdiff-fmt/sample_metadata.tsv':
+    '2018.11/tutorials/fmt-cdiff/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vQP2uJnmbdKUxVV8RwpYCMT2-xXPmYcbzesb92zPUcsqtedmzJ6K5G1qhmnVR8_u75ERRw6t0dt-m3l/pub?gid=283132897&single=true&output=tsv',
 }
