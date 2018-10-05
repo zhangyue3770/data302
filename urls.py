@@ -1867,12 +1867,14 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
     '2018.11/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
-    '2018.11/tutorials/fmt-cdiff/barcodes.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/barcodes.fastq.gz',
-    '2018.11/tutorials/fmt-cdiff/forward.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/forward.fastq.gz',
-    '2018.11/tutorials/fmt-cdiff/reverse.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/cdiff-fmt/reverse.fastq.gz',
+    '2018.11/tutorials/fmt-cdiff/1p/seqs.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt-cdiff/1p/sequences_testing.qza',
+    '2018.11/tutorials/fmt-cdiff/10p/barcodes.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt-cdiff/10p/barcodes.fastq.gz',
+    '2018.11/tutorials/fmt-cdiff/10p/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt-cdiff/10p/forward.fastq.gz',
+    '2018.11/tutorials/fmt-cdiff/10p/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/fmt-cdiff/10p/reverse.fastq.gz',
     '2018.11/tutorials/gneiss/sample-metadata.tsv':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2018.11/tutorials/gneiss/sample-metadata.tsv',
     '2018.11/tutorials/gneiss/table.qza':
