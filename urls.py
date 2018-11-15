@@ -177,9 +177,9 @@ MAP = {
     'distro/core/qiime2-2018.11-py35-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2018.11/release/qiime2-2018.11-py35-linux-conda.yml',
     'distro/core/2018.11':
-        'https://google.com',
-    'distro/core/qiime201811-BUILDID.zip':
-        'https://google.com',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201811-1542146018.zip',
+    'distro/core/qiime201811-1542146018.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201811-1542146018.zip',
 
     # Gallery
     'gallery/taxa-bar-plots.qzv':
