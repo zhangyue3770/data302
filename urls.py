@@ -182,10 +182,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/distro/core/qiime201811-1542146018.zip',
 
     # 2019.1 DISTRO
-    'distro/core/qiime2-2019.1-py35-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py35-osx-conda.yml',
-    'distro/core/qiime2-2019.1-py35-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py35-linux-conda.yml',
+    'distro/core/qiime2-2019.1-py36-osx-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py36-osx-conda.yml',
+    'distro/core/qiime2-2019.1-py36-linux-conda.yml':
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2019.1/release/qiime2-2019.1-py36-linux-conda.yml',
     'distro/core/2019.1':
         'https://google.com',
     'distro/core/qiime20191-BUILDID.zip':
