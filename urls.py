@@ -2434,10 +2434,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/otu-clustering/seqs.fna',
     '2019.7/tutorials/otu-clustering/85_otus.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/otu-clustering/85_otus.qza',
-    # '2019.7/tutorials/pd-mice/demultiplexed_seqs.zip':
-    #     'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/pd-mice/demuliplexed_seqs.zip',
-    # '2019.7/tutorials/pd-mice/manifest':
-    #     'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/pd-mice/manifest',
+    '2019.7/tutorials/pd-mice/demultiplexed_seqs.zip':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/pd-mice/demuliplexed_seqs.zip',
+    '2019.7/tutorials/pd-mice/manifest':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/pd-mice/manifest',
     '2019.7/tutorials/quality-control/qc-mock-3-expected.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/quality-control/qc-mock-3-expected.qza',
     '2019.7/tutorials/quality-control/qc-mock-3-observed.qza':
@@ -2496,9 +2496,9 @@ MAP = {
     '2019.7/tutorials/fmt-cdiff/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vR0ibVO8ZCopp2g4teedf_0cO-O14m0dfv7PAwRREL4WGAWFWNbbJs9nYrk5xmEfVa3JzMeR8rvoAiW/pub?gid=283132897&single=true&output=tsv',
 
-    # ## PD Mice
-    # '2019.7/tutorials/pd-mice/sample_metadata':
-    #     'https://docs.google.com/spreadsheets/d/1b3U6s9JH7ytgBdEhWayd9Y725vvD3K_W4n60pGf5YUs/edit?usp=sharing',
-    # '2019.7/tutorials/pd-mice/sample_metadata.tsv':
-    #     'https://docs.google.com/spreadsheets/d/e/2PACX-1vRNyhD2XqikmHFhRBOKmqTf-DAomV4l03nv7SEcaueQG9W99DihnCNZY8OBgXe8HNlztB-AeJJeCzna/pub?gid=1509704122&single=true&output=tsv',
+    ## PD Mice
+    '2019.7/tutorials/pd-mice/sample_metadata':
+        'https://docs.google.com/spreadsheets/d/1b3U6s9JH7ytgBdEhWayd9Y725vvD3K_W4n60pGf5YUs/edit?usp=sharing',
+    '2019.7/tutorials/pd-mice/sample_metadata.tsv':
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vRNyhD2XqikmHFhRBOKmqTf-DAomV4l03nv7SEcaueQG9W99DihnCNZY8OBgXe8HNlztB-AeJJeCzna/pub?gid=1509704122&single=true&output=tsv',
 }
