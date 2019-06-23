@@ -2211,14 +2211,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
     '2019.4/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
-    '2019.4/tutorials/fmt-cdiff/1p/seqs.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt-cdiff/1p/sequences_testing.qza',
-    '2019.4/tutorials/fmt-cdiff/10p/barcodes.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt-cdiff/10p/barcodes.fastq.gz',
-    '2019.4/tutorials/fmt-cdiff/10p/forward.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt-cdiff/10p/forward.fastq.gz',
-    '2019.4/tutorials/fmt-cdiff/10p/reverse.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/fmt-cdiff/10p/reverse.fastq.gz',
+    '2019.4/tutorials/fmt-cdiff-khanna/manifest.csv':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.4/tutorials/fmt-cdiff-khanna/manifest.csv',
+    '2019.4/tutorials/fmt-cdiff-khanna/sequence_files.zip':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.4/tutorials/fmt-cdiff-khanna/sequence_files.zip',
     '2019.4/tutorials/gneiss/sample-metadata.tsv':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.4/tutorials/gneiss/sample-metadata.tsv',
     '2019.4/tutorials/gneiss/table.qza':
@@ -2324,9 +2320,9 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vTm_behEVNgfmTSFPB700I83EoKYGrt_nM4mJa5EQE9wFb0uRSfF0fYu-oFJTboY98qlfH5Q5PxTubA/pub?gid=1303657428&single=true&output=tsv',
 
     ## FMT Cdiff
-    '2019.4/tutorials/fmt-cdiff/sample_metadata':
+    '2019.4/tutorials/fmt-cdiff-khanna/sample_metadata':
         'https://docs.google.com/spreadsheets/d/19lHD9-y7u3nmMf8pIKwlx-RiwR_PZvwKOXEYTxJ67Xo/edit?usp=sharing',
-    '2019.4/tutorials/fmt-cdiff/sample_metadata.tsv':
+    '2019.4/tutorials/fmt-cdiff-khanna/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vQa0CfAtMABhmy8UGwnoYvsfMztN4x_rQjG4nCSaC9NZJzIyA1eFW1ARym17OonuOC7PUq8g2ynpXUW/pub?gid=283132897&single=true&output=tsv',
 
     # 2019.7
@@ -2374,14 +2370,10 @@ MAP = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt/fmt-tutorial-demux-2-10p.qza',
     '2019.7/tutorials/fmt/fmt-tutorial-demux-2-1p.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt/fmt-tutorial-demux-2-1p.qza',
-    '2019.7/tutorials/fmt-cdiff/1p/seqs.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt-cdiff/1p/sequences_testing.qza',
-    '2019.7/tutorials/fmt-cdiff/10p/barcodes.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt-cdiff/10p/barcodes.fastq.gz',
-    '2019.7/tutorials/fmt-cdiff/10p/forward.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt-cdiff/10p/forward.fastq.gz',
-    '2019.7/tutorials/fmt-cdiff/10p/reverse.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/fmt-cdiff/10p/reverse.fastq.gz',
+    '2019.7/tutorials/fmt-cdiff-khanna/manifest.csv':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.7/tutorials/fmt-cdiff-khanna/manifest.csv',
+    '2019.7/tutorials/fmt-cdiff-khanna/sequence_files.zip':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.7/tutorials/fmt-cdiff-khanna/sequence_files.zip',
     '2019.7/tutorials/gneiss/sample-metadata.tsv':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.7/tutorials/gneiss/sample-metadata.tsv',
     '2019.7/tutorials/gneiss/table.qza':
@@ -2491,9 +2483,9 @@ MAP = {
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vRWEaoub_0gtQ6AwZfFNTxmClxpTXJtp9Fpjvn1T7YHd0WRRCA51crzcgQsHDjIDvzWif7gjrRk_knZ/pub?gid=1303657428&single=true&output=tsv',
 
     ## FMT Cdiff
-    '2019.7/tutorials/fmt-cdiff/sample_metadata':
+    '2019.7/tutorials/fmt-cdiff-khanna/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1v0O4E1R_s086URWJcYULYvkUvcTgqMgMXNum2APisho/edit?usp=sharing',
-    '2019.7/tutorials/fmt-cdiff/sample_metadata.tsv':
+    '2019.7/tutorials/fmt-cdiff-khanna/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/e/2PACX-1vR0ibVO8ZCopp2g4teedf_0cO-O14m0dfv7PAwRREL4WGAWFWNbbJs9nYrk5xmEfVa3JzMeR8rvoAiW/pub?gid=283132897&single=true&output=tsv',
 
     ## PD Mice
