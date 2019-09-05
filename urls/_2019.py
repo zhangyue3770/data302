@@ -641,10 +641,16 @@ MAP_2019 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/otu-clustering/seqs.fna',
     '2019.10/tutorials/otu-clustering/85_otus.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/otu-clustering/85_otus.qza',
+    '2019.10/tutorials/pd-mice/animal_distal_gut.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.10/tutorials/pd-mice/animal_distal_gut.qza',
     '2019.10/tutorials/pd-mice/demultiplexed_seqs.zip':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/pd-mice/demuliplexed_seqs.zip',
     '2019.10/tutorials/pd-mice/manifest':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/pd-mice/manifest',
+    '2019.10/tutorials/pd-mice/ref_seqs_v4.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.10/tutorials/pd-mice/ref_seqs_v4.qza',
+    '2019.10/tutorials/pd-mice/ref_tax.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.10/tutorials/pd-mice/ref_tax.qza',
     '2019.10/tutorials/quality-control/qc-mock-3-expected.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/quality-control/qc-mock-3-expected.qza',
     '2019.10/tutorials/quality-control/qc-mock-3-observed.qza':
