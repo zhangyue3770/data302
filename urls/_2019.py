@@ -644,7 +644,7 @@ MAP_2019 = {
     '2019.10/tutorials/pd-mice/animal_distal_gut.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.10/tutorials/pd-mice/animal_distal_gut.qza',
     '2019.10/tutorials/pd-mice/demultiplexed_seqs.zip':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/pd-mice/demuliplexed_seqs.zip',
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/pd-mice/demultiplexed_seqs.zip',
     '2019.10/tutorials/pd-mice/manifest':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/pd-mice/manifest',
     '2019.10/tutorials/pd-mice/ref_seqs_v4.qza':
