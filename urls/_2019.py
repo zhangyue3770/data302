@@ -549,6 +549,10 @@ MAP_2019 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/common/silva-132-99-515-806-nb-classifier.qza',
     '2019.10/common/silva-132-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/common/silva-132-99-nb-classifier.qza',
+    '2019.10/common/sepp-refs-gg-13-8.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/common/sepp-refs-gg-13-8.qza',
+    '2019.10/common/sepp-refs-silva-128.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/common/sepp-refs-silva-128.qza',
     '2019.10/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/atacama-soils/10p/barcodes.fastq.gz',
     '2019.10/tutorials/atacama-soils/10p/forward.fastq.gz':
