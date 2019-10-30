@@ -679,6 +679,8 @@ MAP_2019 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/training-feature-classifiers/85_otus.fasta',
     '2019.10/tutorials/training-feature-classifiers/rep-seqs.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2019.10/tutorials/training-feature-classifiers/rep-seqs.qza',
+    '2019.10/tutorials/phylogeny/rep-seqs.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2019.10/tutorials/phylogeny/rep-seqs.qza',
 
     # Sample Metadata (hosted on Google Sheets)
 
