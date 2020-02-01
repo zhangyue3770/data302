@@ -160,6 +160,12 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.2/tutorials/training-feature-classifiers/rep-seqs.qza',
     '2020.2/tutorials/phylogeny/rep-seqs.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.2/tutorials/phylogeny/rep-seqs.qza',
+    '2020.2/tutorials/utilities/faith-pd-vector.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.2/tutorials/utilities/faith-pd-vector.qza',
+    '2020.2/tutorials/utilities/jaccard-pcoa.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.2/tutorials/utilities/jaccard-pcoa.qza',
+    '2020.2/tutorials/utilities/taxa-barplot.qzv':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.2/tutorials/utilities/taxa-barplot.qzv',
 
     # Sample Metadata (hosted on Google Sheets)
 
