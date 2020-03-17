@@ -286,6 +286,8 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/feature-table-v100.biom',
     '2020.5/tutorials/importing/feature-table-v210.biom':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/feature-table-v210.biom',
+    '2020.5/tutorials/importing/muxed-se-barcode-in-seq.fastq.gz':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.5/tutorials/importing/muxed-se-barcode-in-seq.fastq.gz',
     '2020.5/tutorials/importing/pe-64-manifest':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/pe-64-manifest',
     '2020.5/tutorials/importing/pe-64.zip':
@@ -298,6 +300,10 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/sequences.fna',
     '2020.5/tutorials/importing/unrooted-tree.tre':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/unrooted-tree.tre',
+    '2020.5/tutorials/importing/muxed-pe-barcode-in-seq/forward.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/muxed-pe-barcode-in-seq/forward.fastq.gz',
+    '2020.5/tutorials/importing/muxed-pe-barcode-in-seq/reverse.fastq.gz':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/importing/muxed-pe-barcode-in-seq/reverse.fastq.gz',
     '2020.5/tutorials/longitudinal/ecam_table_taxa.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.5/tutorials/longitudinal/ecam_table_taxa.qza',
     '2020.5/tutorials/longitudinal/ecam_shannon.qza':
