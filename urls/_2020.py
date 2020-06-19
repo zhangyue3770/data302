@@ -222,14 +222,22 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/gg-13-8-99-515-806-nb-classifier.qza',
     '2020.6/common/gg-13-8-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/gg-13-8-99-nb-classifier.qza',
-    '2020.6/common/silva-132-99-515-806-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-132-99-515-806-nb-classifier.qza',
-    '2020.6/common/silva-132-99-nb-classifier.qza':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-132-99-nb-classifier.qza',
     '2020.6/common/sepp-refs-gg-13-8.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/sepp-refs-gg-13-8.qza',
     '2020.6/common/sepp-refs-silva-128.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/sepp-refs-silva-128.qza',
+    '2020.6/common/silva-138-99-515-806-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-138-99-515-806-nb-classifier.qza',
+    '2020.6/common/silva-132-99-nb-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-138-99-nb-classifier.qza',
+    '2020.6/common/silva-138-99-seqs-515-806.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.6/common/silva-138-99-seqs-515-806.qza',
+    '2020.6/common/silva-138-99-seqs.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.6/common/silva-138-99-seqs.qza',
+    '2020.6/common/silva-138-99-tax-515-806.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.6/common/silva-138-99-tax-515-806.qza',
+    '2020.6/common/silva-138-99-tax.qza':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.6/common/silva-138-99-tax.qza',
     '2020.6/tutorials/atacama-soils/10p/barcodes.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/10p/barcodes.fastq.gz',
     '2020.6/tutorials/atacama-soils/10p/forward.fastq.gz':
