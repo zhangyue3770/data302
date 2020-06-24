@@ -244,12 +244,6 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/10p/forward.fastq.gz',
     '2020.6/tutorials/atacama-soils/10p/reverse.fastq.gz':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/10p/reverse.fastq.gz',
-    '2020.6/tutorials/atacama-soils/1p/barcodes.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/1p/barcodes.fastq.gz',
-    '2020.6/tutorials/atacama-soils/1p/forward.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/1p/forward.fastq.gz',
-    '2020.6/tutorials/atacama-soils/1p/reverse.fastq.gz':
-        'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/atacama-soils/1p/reverse.fastq.gz',
     '2020.6/tutorials/chimera/atacama-table.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/tutorials/chimera/atacama-table.qza',
     '2020.6/tutorials/chimera/atacama-rep-seqs.qza':
