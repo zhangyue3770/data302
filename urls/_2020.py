@@ -228,7 +228,7 @@ MAP_2020 = {
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/sepp-refs-silva-128.qza',
     '2020.6/common/silva-138-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-138-99-515-806-nb-classifier.qza',
-    '2020.6/common/silva-132-99-nb-classifier.qza':
+    '2020.6/common/silva-138-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2020.6/common/silva-138-99-nb-classifier.qza',
     '2020.6/common/silva-138-99-seqs-515-806.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2020.6/common/silva-138-99-seqs-515-806.qza',
