@@ -801,33 +801,33 @@ MAP_2020 = {
 
     ## FMT
     '2020.11/tutorials/fmt/sample_metadata':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1grGhjYpf8KF56at_T0djGZPl9yYGGEX75tRc4QocZdc/edit?usp=sharing',
     '2020.11/tutorials/fmt/sample_metadata.tsv':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1grGhjYpf8KF56at_T0djGZPl9yYGGEX75tRc4QocZdc/export?gid=0&format=tsv',
 
     ## Moving Pictures
     '2020.11/tutorials/moving-pictures/sample_metadata':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1hBo_NWijLILEFYJrYs7R_Bwc7i_n3ZmPKUQetpVk-pk/edit?usp=sharing',
     '2020.11/tutorials/moving-pictures/sample_metadata.tsv':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1hBo_NWijLILEFYJrYs7R_Bwc7i_n3ZmPKUQetpVk-pk/export?gid=0&format=tsv',
 
     ## Atacama
     '2020.11/tutorials/atacama-soils/sample_metadata':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1OYoGEnEulIYqCpl73Sl-wO1ipn95l3SL0kjJE3f7QPU/edit?usp=sharing',
     '2020.11/tutorials/atacama-soils/sample_metadata.tsv':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1OYoGEnEulIYqCpl73Sl-wO1ipn95l3SL0kjJE3f7QPU/export?gid=0&format=tsv',
 
     ## The following tutorials are the "weird" ones, they use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
 
     ## Longitudinal
     '2020.11/tutorials/longitudinal/sample_metadata':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1Qb3U4wJ89T0jmTG1mPNLu-w-tM1d8mDwOtQZA4ZMjHA/edit?usp=sharing',
     '2020.11/tutorials/longitudinal/sample_metadata.tsv':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vSwgOEahGwBW3YqOyULE39UsoHM5ma5gHbmPJ25Co8ER2G6nRpsJQclaouBOOBZkdAROBw5ej-WTPhl/pub?gid=1303657428&single=true&output=tsv',
 
     ## PD Mice
     '2020.11/tutorials/pd-mice/sample_metadata':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/1FOKCGDa_bdGu_Vi5gZJancj8nhNevX3U_nX2YS8LirM/edit?usp=sharing',
     '2020.11/tutorials/pd-mice/sample_metadata.tsv':
-        'https://google.com',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXcEE5vD_u1dTxeZ9n0JL_BNAF1f4T1S2vpOTdUYnjxji6Gt1L-c5DhOUwcrXchm9_YSyHZo1RZgAh/pub?gid=1509704122&single=true&output=tsv',
 }
