@@ -45,9 +45,9 @@ MAP_2020 = {
     'distro/core/qiime2-2020.11-py36-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2020.11/release/qiime2-2020.11-py36-linux-conda.yml',
     'distro/core/2020.11':
-        'https://google.com',
-    'distro/core/qiime202011-BUILDID.zip':
-        'https://google.com',
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime202011-1607704676.zip',
+    'distro/core/qiime202011-1607704676.zip':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime202011-1607704676.zip',
 
     # 2020.2
     '2020.2/common/gg-13-8-99-515-806-nb-classifier.qza':
