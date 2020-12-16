@@ -12,6 +12,7 @@ from ._old import MAP_OLD
 from ._permanent import MAP_PERMANENT
 from ._2019 import MAP_2019
 from ._2020 import MAP_2020
+from ._2021 import MAP_2021
 
 
 MAP = {
@@ -22,6 +23,8 @@ MAP = {
     **MAP_2019,
 
     **MAP_2020,
+
+    **MAP_2021,
 }
 
 
