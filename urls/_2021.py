@@ -228,16 +228,24 @@ MAP_2021 = {
     # 2021.4
     '2021.4/common/gg-13-8-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/gg-13-8-99-515-806-nb-classifier.qza',
+    '2021.4/common/gg-13-8-99-515-806-nb-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/gg-13-8-99-515-806-nb-weighted-classifier.qza',
     '2021.4/common/gg-13-8-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/gg-13-8-99-nb-classifier.qza',
+    '2021.4/common/gg-13-8-99-nb-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/gg-13-8-99-nb-weighted-classifier.qza',
     '2021.4/common/sepp-refs-gg-13-8.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/sepp-refs-gg-13-8.qza',
     '2021.4/common/sepp-refs-silva-128.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/sepp-refs-silva-128.qza',
     '2021.4/common/silva-138-99-515-806-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/silva-138-99-515-806-nb-classifier.qza',
+    '2021.4/common/silva-138-99-515-806-nb-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/silva-138-99-515-806-nb-weighted-classifier.qza',
     '2021.4/common/silva-138-99-nb-classifier.qza':
         'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/silva-138-99-nb-classifier.qza',
+    '2021.4/common/silva-138-99-nb-weighted-classifier.qza':
+        'https://s3-us-west-2.amazonaws.com/qiime2-data/2021.4/common/silva-138-99-nb-weighted-classifier.qza',
     '2021.4/common/silva-138-99-seqs-515-806.qza':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2021.4/common/silva-138-99-seqs-515-806.qza',
     '2021.4/common/silva-138-99-seqs.qza':
