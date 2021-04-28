@@ -31,9 +31,9 @@ MAP_2021 = {
 
     # 2021.8 DISTRO
     'distro/core/qiime2-2021.8-py38-osx-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.8/release/qiime2-2021.4-py38-osx-conda.yml',
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.8/release/qiime2-2021.8-py38-osx-conda.yml',
     'distro/core/qiime2-2021.8-py38-linux-conda.yml':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.8/release/qiime2-2021.4-py38-linux-conda.yml',
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.8/release/qiime2-2021.8-py38-linux-conda.yml',
     'distro/core/2021.8':
         'https://qiime2.org',
     'distro/core/qiime20218-BUILDID.zip':
@@ -614,34 +614,33 @@ MAP_2021 = {
 
     ## FMT
     '2021.8/tutorials/fmt/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/15fWkBz5O2JH5wK5-fXLMJR2ZP4-rj8lMMTFzCaRVxuU/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1hqU2mL0YhTA_EQT4LwAQ1O1uF-UP1ry0PpkXTy_dkVc/edit?usp=sharing',
     '2021.8/tutorials/fmt/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/15fWkBz5O2JH5wK5-fXLMJR2ZP4-rj8lMMTFzCaRVxuU/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1hqU2mL0YhTA_EQT4LwAQ1O1uF-UP1ry0PpkXTy_dkVc/export?gid=0&format=tsv',
 
     ## Moving Pictures
     '2021.8/tutorials/moving-pictures/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1e0mnmMtb1FUDJjrjh-sOIUohQkWGEDyGfuTST2-3pzo/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1zUVvAmHEzkVLs7xI4DUh-Y4bFk-CrL1a6mXWxo5OYB4/edit?usp=sharing',
     '2021.8/tutorials/moving-pictures/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1e0mnmMtb1FUDJjrjh-sOIUohQkWGEDyGfuTST2-3pzo/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1zUVvAmHEzkVLs7xI4DUh-Y4bFk-CrL1a6mXWxo5OYB4/export?gid=0&format=tsv',
+  
     ## Atacama
     '2021.8/tutorials/atacama-soils/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1LY3_jcLu0NeA-4jiP-7iuQQ7NCa9blAZHMgck_hyOEk/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1HyKxDYGMNVJHCzEk-hqqSDOMVLgZrN-RlhIYxmjG_uU/edit?usp=sharing',
     '2021.8/tutorials/atacama-soils/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/1LY3_jcLu0NeA-4jiP-7iuQQ7NCa9blAZHMgck_hyOEk/export?gid=0&format=tsv',
+        'https://docs.google.com/spreadsheets/d/1HyKxDYGMNVJHCzEk-hqqSDOMVLgZrN-RlhIYxmjG_uU/export?gid=0&format=tsv',
 
     ## The following tutorials are the "weird" ones, they use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
 
-
     ## Longitudinal
     '2021.8/tutorials/longitudinal/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1cSl30_A9pnfeumTQuvanEQKDHogsu5T4wCNr_zYG9CY/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1bOAosvA-iHQbGQ3S4Dtjtd4yqhg5-tiSoRDGqJTGAqI/edit?usp=sharing',
     '2021.8/tutorials/longitudinal/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQK_un92lY172qjuG9Ia5zHCzPMuSoxYAQUDYSefCgjnfjtx0Ro9hZJOSksVttk2aRYi2F0unvQik7B/pub?gid=1303657428&single=true&output=tsv',
-
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXCBoljl33rYr7ED6BC4qaq56wcN9e5Dze6cIs__OWbhW-X10UkEyrvO6eYuTcIdvXNf-sVGngoPvV/pub?gid=1303657428&single=true&output=tsv',
 
     ## PD Mice
     '2021.8/tutorials/pd-mice/sample_metadata':
-        'https://docs.google.com/spreadsheets/d/1Mi5yrCcd2nWO1cB-7S5gYnoCtnkeMXdCS7bkBl0pB5Y/edit?usp=sharing',
+        'https://docs.google.com/spreadsheets/d/1sc41A23gpKGHIWYPR6z8l2bASSPMLSlQGlZMo9CdIm0/edit?usp=sharing',
     '2021.8/tutorials/pd-mice/sample_metadata.tsv':
-        'https://docs.google.com/spreadsheets/d/e/2PACX-1vRt_5cnUjlKhnv5Gfuh8pgy0OwPHjlnnUuGS6ba9lwe_DaMi_SLgnfUOAAmm_tOH0Y0w35uR7Ff2uBM/pub?gid=1509704122&single=true&output=tsv',
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vT2bnLQBZB2uqFUABNTWhCk_mxeQYHdU-h9WQK93z9Z1wVQy_OHpOX8IUsRpJTpX1Ya0zSoAcyvs1Pf/pub?gid=1509704122&single=true&output=tsv',
 }
