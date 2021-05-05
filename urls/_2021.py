@@ -25,9 +25,9 @@ MAP_2021 = {
     'distro/core/qiime2-2021.4-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.4/release/qiime2-2021.4-py38-linux-conda.yml',
     'distro/core/2021.4':
-        'https://qiime2.org',
-    'distro/core/qiime20214-BUILDID.zip':
-        'https://qiime2.org',
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime20214-1620251613.zip',
+    'distro/core/qiime20214-1620251613.zip':
+        'https://qiime2-data.s3-us-west-2.amazonaws.com/distro/core/qiime20214-1620251613.zip',
 
     # 2021.8 DISTRO
     'distro/core/qiime2-2021.8-py38-osx-conda.yml':
@@ -623,7 +623,7 @@ MAP_2021 = {
         'https://docs.google.com/spreadsheets/d/1zUVvAmHEzkVLs7xI4DUh-Y4bFk-CrL1a6mXWxo5OYB4/edit?usp=sharing',
     '2021.8/tutorials/moving-pictures/sample_metadata.tsv':
         'https://docs.google.com/spreadsheets/d/1zUVvAmHEzkVLs7xI4DUh-Y4bFk-CrL1a6mXWxo5OYB4/export?gid=0&format=tsv',
-  
+
     ## Atacama
     '2021.8/tutorials/atacama-soils/sample_metadata':
         'https://docs.google.com/spreadsheets/d/1HyKxDYGMNVJHCzEk-hqqSDOMVLgZrN-RlhIYxmjG_uU/edit?usp=sharing',
