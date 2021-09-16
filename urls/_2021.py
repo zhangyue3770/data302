@@ -35,9 +35,9 @@ MAP_2021 = {
     'distro/core/qiime2-2021.8-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2021.8/release/qiime2-2021.8-py38-linux-conda.yml',
     'distro/core/2021.8':
-        'https://qiime2.org',
-    'distro/core/qiime20218-BUILDID.zip':
-        'https://qiime2.org',
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20218-1631813508.zip',
+    'distro/core/qiime20218-1631813508.zip':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/distro/core/qiime20218-1631813508.zip',
 
     # 2021.10 DISTRO
     'distro/core/qiime2-2021.10-py38-osx-conda.yml':
