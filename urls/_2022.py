@@ -188,7 +188,16 @@ MAP_2022 = {
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2022.2/tutorials/utilities/jaccard-pcoa.qza',
     '2022.2/tutorials/utilities/taxa-barplot.qzv':
         'https://qiime2-data.s3-us-west-2.amazonaws.com/2022.2/tutorials/utilities/taxa-barplot.qzv',
-
+    '2022.2/tutorials/liao/fmt-metadata.tsv':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/fmt-metadata.tsv',
+    '2022.2/tutorials/liao/sample-metadata.tsv':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/sample-metadata.tsv',
+    '2022.2/tutorials/liao/transplant-metadata.tsv':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/transplant-metadata.tsv',
+    '2022.2/tutorials/liao/rep-seqs.qza':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/rep-seqs.qza',
+    '2022.2/tutorials/liao/full-feature-table.qza':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/full-feature-table.qza',
 
     # Sample Metadata (hosted on Google Sheets)
     ## All of the following tutorials use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
