@@ -198,6 +198,8 @@ MAP_2022 = {
         'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/rep-seqs.qza',
     '2022.2/tutorials/liao/full-feature-table.qza':
         'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/full-feature-table.qza',
+    '2022.2/tutorials/liao/fastq-casava.zip':
+        'https://qiime2-data.s3.us-west-2.amazonaws.com/2022.2/tutorials/liao/fastq-casava.zip',
 
     # Sample Metadata (hosted on Google Sheets)
     ## All of the following tutorials use the *new* docs sharing menu, via "File -> Publish to the Web" dialog for TSV export.
