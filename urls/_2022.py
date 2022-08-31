@@ -24,20 +24,12 @@ MAP_2022 = {
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.8/release/qiime2-2022.8-py38-osx-conda.yml',
     'distro/core/qiime2-2022.8-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.8/release/qiime2-2022.8-py38-linux-conda.yml',
-    'distro/core/2022.8':
-        'https://qiime2.org',
-    'distro/core/qiime20228-BUILD_ID.zip':
-        'https://qiime2.org',
 
     # 2022.11 DISTRO
     'distro/core/qiime2-2022.11-py38-osx-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.11/release/qiime2-2022.11-py38-osx-conda.yml',
     'distro/core/qiime2-2022.11-py38-linux-conda.yml':
         'https://raw.githubusercontent.com/qiime2/environment-files/master/2022.11/release/qiime2-2022.11-py38-linux-conda.yml',
-    'distro/core/2022.11':
-        'https://qiime2.org',
-    'distro/core/qiime202211-BUILD_ID.zip':
-        'https://qiime2.org',
 
     # 2022.2
     '2022.2/common/gg-13-8-99-515-806-nb-classifier.qza':
